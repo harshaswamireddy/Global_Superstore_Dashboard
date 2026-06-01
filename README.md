@@ -51,16 +51,16 @@ The project successfully transformed raw business data into an interactive dashb
 ## Dashboard Preview
 
 ### Executive Overview
-![Executive Overview](Screenshots/Executive_Overview.png)
+![Executive Overview](SCREENSHOTS/Executive_Overview.png)
 
 ### Product Analysis
-![Product Analysis](Screenshots/Product_Analysis.png)
+![Product Analysis](SCREENSHOTS/Product_Analysis.png)
 
 ### Customer Analysis
-![Customer Analysis](Screenshots/Customer_Analysis.png)
+![Customer Analysis](SCREENSHOTS/Customer_Analysis.png)
 
 ### Regional Analysis
-![Regional Analysis](Screenshots/Regional_Analysis.png)
+![Regional Analysis](SCREENSHOTS/Regional_Analysis.png)
 
 ## Files Included
 
