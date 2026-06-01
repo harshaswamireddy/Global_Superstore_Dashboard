@@ -48,12 +48,19 @@ The dataset contains information related to:
 
 The project successfully transformed raw business data into an interactive dashboard that provides meaningful insights into sales, profit, customer behavior, and regional performance. The dashboard helps stakeholders monitor business performance, identify growth opportunities, and support strategic decision-making through data visualization and analytics.
 
-## Global Superstore Dashboard
+## Dashboard Preview
 
-![Dashboard Preview](Executive_Overview.png)
-![Dashboard Preview](Product_Analysis.png)
-![Dashboard Preview](Customer_Analysis.png)
-![Dashboard Preview](Regional_Analysis.png)
+### Executive Overview
+![Executive Overview](Screenshots/Executive_Overview.png)
+
+### Product Analysis
+![Product Analysis](Screenshots/Product_Analysis.png)
+
+### Customer Analysis
+![Customer Analysis](Screenshots/Customer_Analysis.png)
+
+### Regional Analysis
+![Regional Analysis](Screenshots/Regional_Analysis.png)
 
 ## Files Included
 
